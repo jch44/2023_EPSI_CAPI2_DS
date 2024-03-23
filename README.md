@@ -1,0 +1,2 @@
+# 2023_EPSI_CAPI2_DS
+Cours EPSI Data Science CAPI2
